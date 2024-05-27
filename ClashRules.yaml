@@ -508,4 +508,5 @@ rules:
   - RULE-SET,AntiAD,🍃网络净化
   - RULE-SET,Hijacking,🍃网络净化
   - RULE-SET,Privacy,🍃网络净化
+  - MATCH,🐟漏网之鱼
   
